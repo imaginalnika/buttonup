@@ -1,0 +1,15 @@
+*~
+*un
+*#
+*.swp
+build/
+.dart_tool/
+.metadata
+pubspec.lock
+CLAUDE.md
+windows/
+linux/
+android/
+macos/
+ios/
+web/
